@@ -1,0 +1,11 @@
+.buttonStyle{
+    min-width: 80px;
+    padding: 10px;
+}
+
+
+.elementStyle{
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+}

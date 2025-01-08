@@ -1,0 +1,10 @@
+.elementStyle{
+    display: block;
+    flex-wrap: nowrap;
+    margin-bottom: 10px;
+}
+
+.checkStyle{
+    border-color: blue;
+    float: left;
+}
